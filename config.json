@@ -1,0 +1,7 @@
+{
+  "pgHost": "localhost",
+  "pgUser": "postgres",
+  "pgPort": 5432,
+  "pgPassword": "123",
+  "pgDatabase": "Yugioh"
+}
